@@ -1,0 +1,1 @@
+create database sql_post_db;
